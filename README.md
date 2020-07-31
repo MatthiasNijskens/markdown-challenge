@@ -9,7 +9,7 @@ Matthias Nijskens
 ---
 | Birthday | Favorite color | Favorite food | Pineapple on pizza |
 | --- | --- | --------- | --- |
-| 19/12/1995 | Crimson red / Skye blue | Pizza | <ul><li> &#9745; Yes </li><li> &#9744; No </li></ul> |
+| 19/12/1995 | Crimson red / Sky blue | Pizza | <ul><li> &#9745; Yes </li><li> &#9744; No </li></ul> |
 ---
 Hobbies
 -------
