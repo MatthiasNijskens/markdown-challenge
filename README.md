@@ -32,6 +32,6 @@ Hobbies
 
 [<<Previous][previous] || Matthias Nijskens || [Next>>][Next]
 
-[previous]:https://github.com/MonoraxXiV/markdown-challenge
+[previous]:https://github.com/LeaDalibard/markdown-challenge
 [next]:https://github.com/mcoulier/markdown-challenge
 
